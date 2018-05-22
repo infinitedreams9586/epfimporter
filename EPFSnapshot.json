@@ -1,0 +1,31 @@
+{
+    "dirsToImport": [
+        "itunes20180516/"
+    ], 
+    "dirsLeft": [
+        "itunes20180516/"
+    ], 
+    "currentDict": {
+        "fieldSep": "\u0001", 
+        "filesToImport": [
+            "application"
+        ], 
+        "failedFiles": [
+            "application"
+        ], 
+        "recordSep": "\u0002\n", 
+        "dirPath": "/Users/bhaveshdave/Downloads/EPF_Importer/itunes20180516", 
+        "filesImported": [], 
+        "filesLeft": [
+            "application"
+        ]
+    }, 
+    "bList": [
+        "^\\.", 
+        ".*\\..*?"
+    ], 
+    "tablePrefix": "epf", 
+    "wList": [
+        "application"
+    ]
+}
